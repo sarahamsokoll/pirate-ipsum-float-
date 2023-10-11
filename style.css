@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    background: #ccc;
+    margin: 1px;
+    padding: 1px;
+}
+
+h1 {
+    font-family: 'Seaweed Script', cursive;
+}
+
+main {
+    padding: 10px;
+    margin: 10px;
+    background-color: #fff;
+    max-width: 800px;
+}
+
+p {
+    font-family: 'Nanum Brush Script', cursive;
+}
+
+.image-1 {
+    height: auto;
+    width: 225px;
+    float: right;
+    margin-left: 8px;
+}
+
+.image-2 {
+    height: 225px;
+    width: auto;
+    float: left;
+    margin-right: 12px;
+}
